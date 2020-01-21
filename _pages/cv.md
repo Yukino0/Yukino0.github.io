@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * B.E. in Software Engineering, SUN YAT-SEN University, 2018.6.1
-* B.S. candidate in Computer Sicence, Fudan University, 2018.9.1 -
+* M.S. candidate in Computer Sicence, Fudan University, 2018.9.1 -
 
 
 Publications
