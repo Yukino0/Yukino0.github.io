@@ -14,8 +14,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Traffic Engineering, Tongji University, 2015
-* Ph.D in CS, University of Chinese Academy of Sciences (Institute of Computing Technology, CAS), 2020 (expected)
+* B.E. in Software Engineering, SUN YAT-SEN University, 2018.6.1
+* B.S. candidate in Computer Sicence, Fudan University, 2018.9.1 -
 
 
 Publications
