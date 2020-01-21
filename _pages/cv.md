@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Cao Yixuan"
+title: "About Xie Shui"
 permalink: /
 author_profile: true
 redirect_from:
