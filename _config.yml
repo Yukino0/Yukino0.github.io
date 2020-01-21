@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Xie Shui / 谢水"
-  avatar           : "profile.png"
+  avatar           : "default.jpg"
   bio              : "M.S. candidate at FDU, CHINA, interested in NLP and ML"
   location         : "Pudong, Shanghai, China"
   employer         :
