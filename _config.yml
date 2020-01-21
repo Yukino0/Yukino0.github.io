@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Cao Yixuan / 曹逸轩"
+title                    : "Xie Shui / 谢水"
 title_separator          : "-"
-name                     : &name "Cao Yixuan / 曹逸轩"
-description              : &description "Ph.D candidate at ICT, CAS"
-url                      : https://yixuancao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xie Shui / 谢水"
+description              : &description "M.S. candidate at FDU, CHINA"
+url                      : https://youkino0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yixuancao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cao Yixuan / 曹逸轩"
+  name             : "Xie Shui / 谢水"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate at ICT, CAS, interested in NLP and ML"
-  location         : "Haidian, Beijing, China"
+  bio              : "M.S. candidate at FDU, CHINA, interested in NLP and ML"
+  location         : "Pudong, Shanghai, China"
   employer         :
   googlescholar    : 
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yixuancao"
+  github           : "https://github.com/Yukino0/"
   google_plus      :
   keybase          :
   instagram        :
